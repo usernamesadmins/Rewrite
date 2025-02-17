@@ -1,8 +1,8 @@
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "pro";
-const appid = "com.algoriddim.djay_iphone_free.pro_mac.yearly";
+const name = "premium";
+const appid = "spark_desktop_5999_1y_1w0";
 
   
 if (typeof $response == "undefined") {
