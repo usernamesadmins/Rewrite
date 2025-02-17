@@ -2,7 +2,7 @@ const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
 const name = "pro";
-const appid = "GigaBodySubscriptionYear_v1";
+const appid = "com.algoriddim.djay_iphone_free.pro_mac.yearly";
 
   
 if (typeof $response == "undefined") {
