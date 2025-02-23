@@ -12,7 +12,7 @@ if (typeof $response == "undefined") {
   py996.headers = $request.headers;
 } else if (py997 && py997.subscriber) {
   data = {
-    "expires_date": "9999-09-09T09:09:09Z",
+    "expires_date": "2025-08-22:09:09Z",
     "original_purchase_date": "2023-02-23T02:33:33Z",
     "purchase_date": "2023-02-23T02:33:33Z",
     "ownership_type": "PURCHASED",
