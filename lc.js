@@ -2,7 +2,7 @@ const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
 const name = "pro";
-const appid = "com.algoriddim.djay_iphone_free.pro_mac.yearly";
+const appid = "linearity_curve_prroo_yearly_special_offer_trial";
 
   
 if (typeof $response == "undefined") {
